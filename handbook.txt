@@ -1,0 +1,3 @@
+# Arne's Life Handbook
+A handbook documents ways of working and facilitates change management 
+by clarifying current practices and proposed changes. It also creates a collaboration workflow to discuss and merge changes.
